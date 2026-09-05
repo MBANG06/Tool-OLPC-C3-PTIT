@@ -1,4 +1,4 @@
-# 👑 MADE BY BANG DZ UwU 👑
+#  MADE BY BANG DZ UwU 
 ## 🚀 ETS TOEIC OLPC - Auto Solver Portable (Toàn Trình 100%)
 
 > **Tác giả:** BANG DZ UwU  
@@ -12,7 +12,6 @@
 3. **Trích xuất 100% đáp án chuẩn 30/30 câu của Unit Test**: Quét trực tiếp metadata đề thi của ETS, bóc tách chính xác vị trí đáp án đúng cho từng câu.
 4. **Tự động làm và nộp bài Unit Test**: Đạt điểm tối đa **100/100**, bỏ qua audio/video, xử lý các màn hình hướng dẫn và nộp bài an toàn.
 5. **Tự động đồng bộ giao diện và cơ sở dữ liệu**: Cập nhật tiến độ ngay trên trang chủ và lưu ảnh chụp màn hình xác thực điểm số.
-6. **Bản quyền chính chủ**: Tích hợp biểu ngữ ASCII Art và chữ ký bản quyền `MADE BY BANG DZ UwU` trong terminal và tệp khởi động.
 
 ---
 
