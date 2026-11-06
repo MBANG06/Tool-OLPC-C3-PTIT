@@ -1,0 +1,2982 @@
+{
+  "M2": {
+    "1": {
+      "testId": 41940,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because a man is standing up next to a whiteboard and"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The woman is facing the laptop computer and looking "
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer to the yes-no question. Some additional information a"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The pronoun 'he' refers to the 'specialist,' and the"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 0,
+          "letter": "A",
+          "text": "This is a logical response to a question about a where something is located. Giv"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  It is an appropriate answer to a 'yes-no' question "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  There are multiple references to a 'form' and 'writ"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The man tells the woman to 'be honest,' which is syn"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. At the end of the conversation, the woman mentions w"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 0,
+          "letter": "A",
+          "text": "The interviewer mentions the woman's resume and the interviewer asks questions t"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman explicitly says that she worked for an educational toy company. Theref"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman explicitly says that she was a project manager. Therefore, this is the"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The speaker is clearly someone running a business me"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. The speaker congratulates the sales team for a 'fantasti"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 2,
+          "letter": "C",
+          "text": "The speaker tells Joanne that 'it's extremely important that you ... stay in clo"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. The present continuous expresses an action in progress, "
+        },
+        "17": {
+          "q_num": 17,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  'Permanently' means 'not temporary or changing,' so"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct because the preposition 'for' is used in the phrase 'to a"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  'Considerable,' meaning 'large in amount, quantity,"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  'Graduated' means 'to successfully complete school'"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. A 'senior position' is a high-level one and best fit"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The job description portion of the advertisement say"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct because the job description says that 'The position is fo"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct because nothing is mentioned about purchase orders in the"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 2,
+          "letter": "C",
+          "text": "'Current' means 'happening or existing now,' so this is the correct answer."
+        },
+        "26": {
+          "q_num": 26,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. At the end of the advertisement there is information"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 0,
+          "letter": "A",
+          "text": "Bernice Hoff writes in her letter of recommendation that she was Michael Stephen"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 2,
+          "letter": "C",
+          "text": "Michael Stephens explicitly states that he needs a letter of recommendation. The"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 3,
+          "letter": "D",
+          "text": "Bernice Hoff mentions Michael Stephens' ability to analyze and solve problems. T"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 1,
+          "letter": "B",
+          "text": "Michael Stephens has a degree in accountancy. The job advertisement states that "
+        }
+      }
+    },
+    "2": {
+      "testId": 42018,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. A man and a girl are kneeling on the ground to draw "
+        },
+        "2": {
+          "q_num": 2,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct. The woman is sitting in front of a microphone and her mo"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is a logical response to the statement about a film, which is something you"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This is a logical response to the yes-no question. The word 'get' can mean 'purc"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 1,
+          "letter": "B",
+          "text": "This is an appropriate response to the question. 'It' refers to 'the money from "
+        },
+        "6": {
+          "q_num": 6,
+          "index": 0,
+          "letter": "A",
+          "text": "This is a logical response to a 'when' question and it gives additional informat"
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The man says: 'I was wondering whether I can get a r"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The woman mentions giving the man credit for two '35"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. At the end of the conversation, the woman says, 'By "
+        },
+        "10": {
+          "q_num": 10,
+          "index": 1,
+          "letter": "B",
+          "text": "Both speakers express their opinions on the concert. Therefore this is the corre"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman enjoyed the concert. Saying that something was 'very loud' shows that "
+        },
+        "12": {
+          "q_num": 12,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman suggests that the man 'pick the band' the next time, which means that "
+        },
+        "13": {
+          "q_num": 13,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The speaker identifies himself as 'your host' of a m"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 2,
+          "letter": "C",
+          "text": "The speaker describes the arts program as a 'five-day program,' so this answer i"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The speaker says, 'Drop by the Fairfield Community C"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 1,
+          "letter": "B",
+          "text": "'That' is the correct relative pronoun to connect the modifying phrase 'was supp"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The word 'praising' means giving a positive opinion "
+        },
+        "18": {
+          "q_num": 18,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. The word 'memorable' is the adjective form of the wo"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. Something that is required means that it must be don"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 3,
+          "letter": "D",
+          "text": "The word 'advising' means 'giving information or an opinion about something.' Th"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. It is the present passive voice of the verb and matc"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct.  'Exactly' is one meaning of 'right' and it makes sense "
+        },
+        "23": {
+          "q_num": 23,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  The memo says, 'As in past years, we will also have"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct. The memo asks employees to indicate what activities they"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. In the fourth paragraph, Mr. Lacy says, 'It is very impo"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct. Towards the end of the memo it says, 'There will be a mi"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 2,
+          "letter": "C",
+          "text": "Sharon writes that her company gave her free tickets. Therefore, this is the cor"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 3,
+          "letter": "D",
+          "text": "Sharon points out that water slides do not make Ricky dizzy. Ricky says 'True' t"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 3,
+          "letter": "D",
+          "text": "Elise is in charge of the entertainment for the company dinner. She writes that "
+        },
+        "30": {
+          "q_num": 30,
+          "index": 1,
+          "letter": "B",
+          "text": "David has already made two suggestions that Elise found problems with. She write"
+        }
+      }
+    },
+    "3": {
+      "testId": 42096,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. There is a train visible to the man's left and the p"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct. There are a number of people on what is recognizable as "
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because it is a logical response to the statement. Th"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. It responds to the yes-no question and adds some inf"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. It is an appropriate response to a yes-no question a"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because it is a logical response to the question and "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. Features of a hotel—the reception desk,  a room for "
+        },
+        "8": {
+          "q_num": 8,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The woman says she has '…left the bag with all my to"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. At the end of the conversation, the man says he will"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 0,
+          "letter": "A",
+          "text": "The first speaker asks who wants to travel with her in the summer for a week or "
+        },
+        "11": {
+          "q_num": 11,
+          "index": 2,
+          "letter": "C",
+          "text": "The man implies that work may not give him permission to take vacation time.  Th"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 0,
+          "letter": "A",
+          "text": "The man suggests they look online and that he will get his laptop. Therefore, th"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The speaker identifies himself as 'the conductor' an"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The speaker mentions that 'we'll be sitting here for"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct. The speaker says: '…for those of you who are headed to t"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. Because of the word 'both' before the phrases to be "
+        },
+        "17": {
+          "q_num": 17,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The phrase, 'would have caused' is the past perfect "
+        },
+        "18": {
+          "q_num": 18,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct because an itinerary is a written description of travel p"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct.  The e-mail indicates that Ms. Atkins has made a hotel r"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct.  The phrase 'so that' expresses purpose (Ms. Atkins is l"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct.  The gerund form 'planning' is used after the phrase 'he"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  The schedule for Day 1 says, 'If you are lucky you "
+        },
+        "23": {
+          "q_num": 23,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct.  The schedule says under Day One: 'At noon, we will stop"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct.  The schedule for Day 2 in the old city says,  'There ar"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  The word 'well-made' means made in a skillful way, "
+        },
+        "26": {
+          "q_num": 26,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct.  In the schedule for Day 3 it says, 'We start the day wi"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "The advertisement states that guests can check in 'anytime after 3:00 P.M.'. 'Ch"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 0,
+          "letter": "A",
+          "text": "In the advertisement, the apartment is described as being 'a ten-minute walk' fr"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 1,
+          "letter": "B",
+          "text": "In the response to the guest review, Craig N. apologizes for 'the state of the a"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 2,
+          "letter": "C",
+          "text": "The guest's final complaint was that there was only one key. Therefore, this is "
+        }
+      }
+    },
+    "4": {
+      "testId": 42174,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  From the position of her hand, the chef appears to "
+        },
+        "2": {
+          "q_num": 2,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  Various dishes are arranged on a table and the peop"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct. The response implies 'No, we are not ready to order. We "
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. It is a logical response to the request and includes an "
+        },
+        "5": {
+          "q_num": 5,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct. It is an appropriate response to a yes-no question about"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because this is an appropriate response to the yes-no"
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  At the beginning of the conversation, the woman say"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. The man says that other companies were 'far more exp"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  At the end of the conversation, the woman asks abou"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 1,
+          "letter": "B",
+          "text": "The man explicitly states that you 'personalize' your hamburger. Therefore, this"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 2,
+          "letter": "C",
+          "text": "The sign gives numbered steps about how to create your hamburger. Therefore, thi"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 2,
+          "letter": "C",
+          "text": "This is to choose toppings. The man says he does not want anything on his hambur"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The speaker says 'On Mondays we are closed.'"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because the speaker says, '…please leave a message af"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  The speaker says that callers should '...be sure to"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  'Exact' means 'precise' or 'specific.'  Customers c"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  Service in a restaurant is the work of the waiters."
+        },
+        "18": {
+          "q_num": 18,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  The word 'quickly' is an adverb and is used to modi"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because it is logical in this sentence.  Ms. Henson a"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct.  The word 'restrictions' means 'limiting or controlling "
+        },
+        "21": {
+          "q_num": 21,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct because it is the future tense of the verb and the action"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the job of a restaurant reviewer is to give o"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct.  The first paragraph of the review says, 'The Cherry Tre"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "Mr. Tuller does not say that he buys bread at the open market, so this is the co"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  'Awake' is one meaning of 'up' and it fits logicall"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  The article says, 'Visitors to the Cherry Tree who "
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "Mr. Stone explicitly mentions celebrating the completion of a project. Therefore"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 1,
+          "letter": "B",
+          "text": "Ms. Kato is agreeing to, and thanking  Mr. Stone for changing the day of the lun"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 3,
+          "letter": "D",
+          "text": "Ms. Kato writes that 'you have to reserve a table in advance'. This implies that"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 2,
+          "letter": "C",
+          "text": "Mr. Stone ends by writing that he will call to reserve a table at Delphine's. Th"
+        }
+      }
+    },
+    "5": {
+      "testId": 42252,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. There are many computers visible on the table in the"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The man is clearly holding the end of a wire with ea"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer to the yes-no question. Some additional information a"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct because the response provides a time frame to the 'when' "
+        },
+        "5": {
+          "q_num": 5,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct because it is a logical response to the question (asking "
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer to the yes-no question. The word 'yes' is understood "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  At the beginning of the conversation, the man says "
+        },
+        "8": {
+          "q_num": 8,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The woman mentions a free software program and says "
+        },
+        "9": {
+          "q_num": 9,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  At the end of the conversation, the woman says, '… "
+        },
+        "10": {
+          "q_num": 10,
+          "index": 0,
+          "letter": "A",
+          "text": "The man explicitly says to the woman: 'You bike to work...' This is actually a q"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 0,
+          "letter": "A",
+          "text": "The man thinks that the woman does not 'do any work' on an electric bike. Theref"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "The man says, 'OK! You've convinced me'. It is therefore likely that he will buy"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The speaker mentions that the listeners will 'hit th"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct. The speaker mentions that the 'multi-functional machine'"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct. The speaker mentions that 'it's back-to-school week,' wh"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct. The word 'incompatible' means 'not able to be used toget"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct because it is a plural noun which is required after the a"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. 'Adjusted,' the past participle of the verb 'to adju"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 2,
+          "letter": "C",
+          "text": "From the phrase 'we are working on' and the rest of the memo,  it can be determi"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 1,
+          "letter": "B",
+          "text": "The word 'encountered' means 'experienced something.'  The e-mail is about the p"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  In this sentence, 'remaining' functions as an adjec"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  In the first sentence, the text says that the compa"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct.  'Mobile-phone equipment' occurs in the first line of th"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct.  In the second bullet point, 'ineligible for' means 'doe"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "According to the third bullet point, 'Buyers will receive, with the service pack"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  According to the fifth bullet point, 'Insurance cov"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 1,
+          "letter": "B",
+          "text": "The blog post mentions the advantages of using tablets in business. Therefore, t"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 2,
+          "letter": "C",
+          "text": "Both the blog post and Mr. De Witt mention increased productivity. Therefore, th"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 2,
+          "letter": "C",
+          "text": "In the e-mail, 'check out' means to accept a customer's payment for a product. T"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 3,
+          "letter": "D",
+          "text": "Both the blog post and the e-mail refer to showing 'informational' or 'how-to' v"
+        }
+      }
+    },
+    "6": {
+      "testId": 42330,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. The picture was taken in a clothing store and the wo"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct because the two men in the picture are lifting a box toge"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because 'red' and 'blue' are the names of colors that"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because it gives the price of the item in question."
+        },
+        "5": {
+          "q_num": 5,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because it gives a location in a grocery store in res"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  The number 'ten' is a logical response to the 'how "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  At the beginning of the conversation, the woman say"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The woman asks the man, '…could you gift-wrap it for"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 3,
+          "letter": "D",
+          "text": "At the end of the conversation, the man says, 'And we'll give you a special gift"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 3,
+          "letter": "D",
+          "text": "The speakers are talking about an ad in the newspaper for a sale on running shoe"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 0,
+          "letter": "A",
+          "text": "The man says that the shoes he wants are 60% off. Therefore, this is the correct"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 2,
+          "letter": "C",
+          "text": "The man says that he will not wait and will go now to buy the shoes. Therefore, "
+        },
+        "13": {
+          "q_num": 13,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  At the beginning of the talk, the speaker says, '…I"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct.  The woman says she hasn't yet received '…an e-mail with"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  At the end of the talk, the woman says, 'But on my "
+        },
+        "16": {
+          "q_num": 16,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The 'would order' verb in the first clause requires "
+        },
+        "17": {
+          "q_num": 17,
+          "index": 3,
+          "letter": "D",
+          "text": "The auxiliary verb 'must' with 'present' is correct because it indicates that th"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  'Guaranteed' means that something is certain to hap"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The word 'special' means 'unusual in a good way, 'so"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  In the case of clothing, 'accessories', such as jew"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  'That' is functioning as a conjunction introducing "
+        },
+        "22": {
+          "q_num": 22,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  In the second sentence, it says, 'Apparently, my or"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 3,
+          "letter": "D",
+          "text": "This option is correct because Ms. Sol states in the first sentence of the e-mai"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct because the e-mail states that Ms. Sol received item CP99"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The invoice shows that the unit price of retractable"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct option. The invoice states '1 pack' in the quantity column n"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "Trevis explicitly states that he is at the wholesalers. Therefore, this is the c"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 1,
+          "letter": "B",
+          "text": "Trevis informs Kim and Sasha that a new shipment of hairspray will arrive at the"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 0,
+          "letter": "A",
+          "text": "Kim writes that she has already checked and there is no hair spray in the back r"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 2,
+          "letter": "C",
+          "text": "Kim asks Trevis to 'pick up' hair dryers which in this context means to buy or '"
+        }
+      }
+    },
+    "7": {
+      "testId": 42408,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because each woman has a pen in her hand."
+        },
+        "2": {
+          "q_num": 2,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because the man is applying paint to a wall by using "
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because the response agrees with the statement and ad"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer to the yes-no question is correct. The word 'no' is understood and a"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer to the yes-no question even though the word 'yes' is "
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because business cards would be made by a printer."
+        },
+        "7": {
+          "q_num": 7,
+          "index": 2,
+          "letter": "C",
+          "text": "The woman says: 'I have a feeling [the merger] will open the door for me to move"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 3,
+          "letter": "D",
+          "text": "At the end of the conversation, the man suggests, '... maybe you should talk to "
+        },
+        "9": {
+          "q_num": 9,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. At the end of the conversation, the woman says, 'I'l"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 3,
+          "letter": "D",
+          "text": "The man mentions a party planning business. A 'party' is a type of event. Theref"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 2,
+          "letter": "C",
+          "text": "The woman advises the man to start with a business plan. Therefore, this is the "
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman offers to help the man to write a business plan. Therefore, this is th"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct. The setting is clearly a sales meeting with discussion o"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 2,
+          "letter": "C",
+          "text": "This answer is correct because the speaker says, 'The good news is that our clie"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The speaker says, 'I'd like  to hear your input… wha"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because the future tense and passive voice is require"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The word 'committed' means 'dedicated,' which indica"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. The past tense of the verb is indicated by the phrase 'l"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The word 'lack' means 'to not have something,' in th"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  A 'sacrifice' is the act of giving up things in ord"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the pronoun 'our' refers to the people who in"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the entire advertisement is about an expositi"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because this topic is not listed on the schedule."
+        },
+        "24": {
+          "q_num": 24,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because the schedule notes that Ms. Thea Madden will "
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  The title of the 10:00 a.m. presentation is 'How to"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct option. The asterisk at the bottom of the advertisement indi"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 1,
+          "letter": "B",
+          "text": "Ms. Silva writes in her first message that they are looking for promotional item"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 2,
+          "letter": "C",
+          "text": "Mr. Banks asks what the company gave away the year before. Ms. Silva replies 'Fi"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 3,
+          "letter": "D",
+          "text": "Ms. Silva mentions the price and writes that it is over their budget, meaning th"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 1,
+          "letter": "B",
+          "text": "100 is mentioned as the minimum order for the sunscreen. Therefore, this is the "
+        }
+      }
+    },
+    "8": {
+      "testId": 42486,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because two of the people in the picture are giving e"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The machine is a copy machine and she is about to pu"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 0,
+          "letter": "A",
+          "text": "This is a correct answer to a yes-no question.  An explanation is added which ma"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because it gives a time frame in response to the “whe"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because it is a logical response to the yes/no questi"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because it is a logical response to the request to bo"
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. At the beginning of the conversation, the man mentio"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The man mentions that he tried to call the law firm,"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. At the end of the conversation, the woman says, “Let"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 3,
+          "letter": "D",
+          "text": "The man asks if the woman is talking about the re-design of the conference rooms"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 1,
+          "letter": "B",
+          "text": "The man asks how long the work will take and his colleague mentions his concern "
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman mentions that they hope to complete the work in two weeks. Therefore, "
+        },
+        "13": {
+          "q_num": 13,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. The speaker mentions a meeting and then says: “I’m a"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The speaker says, “I can meet with you any time on W"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The speaker asks Mr. Jones to “…please give me a cal"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because it is a future verb tense which is indicated "
+        },
+        "17": {
+          "q_num": 17,
+          "index": 2,
+          "letter": "C",
+          "text": "One meaning of 'approve' is to officially accept an idea or a plan, so this is t"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because it is the subject of the clause that modifies"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  A 'reminder' is something that causes a person to r"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The word 'reimbursed' means 'to pay someone an amoun"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The future verb tense is required because the expens"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the theme of the entire e-mail is about selec"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 2,
+          "letter": "C",
+          "text": "The e-mail mentions that Z-Net is 'widely respected in the information-technolog"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "One meaning of 'held up' is 'interrupted for a period of time.' This is the corr"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. In the third paragraph Ms. Kochar shows her uncertai"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. In the fourth paragraph, the e-mail says, 'It would "
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "It is explicitly stated in the first e-mail that the photographer is coming to D"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 3,
+          "letter": "D",
+          "text": "In the second e-mail employees are requested to write a bio and submit it to Ron"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 0,
+          "letter": "A",
+          "text": "Ms. Fernandez's first question is what type of photographs will be taken. Carlot"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 3,
+          "letter": "D",
+          "text": "Ms. Fernandez writes that #3 is particularly important for sales. According to D"
+        }
+      }
+    }
+  },
+  "M3": {
+    "1": {
+      "testId": 42564,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because the man is holding a mobile phone next to his"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the doctor is talking with a patient.  'Conve"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct response because the time phrase answers the 'when' question"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 2,
+          "letter": "C",
+          "text": "This response is an indirect answer to the question, indicating that it will not"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer to this negative tag question.  The word 'No' is impl"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct response because it provides information about the procedure"
+        },
+        "7": {
+          "q_num": 7,
+          "index": 2,
+          "letter": "C",
+          "text": "The vocabulary of this choice exactly matches the man's words in the stimulus, s"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 1,
+          "letter": "B",
+          "text": "This option matches the man's first statement, so it is the correct answer."
+        },
+        "9": {
+          "q_num": 9,
+          "index": 0,
+          "letter": "A",
+          "text": "The man says the card entitles the member to 10 entries 'at your convenience,' w"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 0,
+          "letter": "A",
+          "text": "The man asks what kind of gym Yan's Circuit Club is. Therefore, this is the corr"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 3,
+          "letter": "D",
+          "text": "The man explicitly states that he finds exercise boring. Therefore, this is the "
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "On both these days there are beginners' classes after 7:30 P.M. Therefore, this "
+        },
+        "13": {
+          "q_num": 13,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer since it can be assumed that the speaker is a person "
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "At the beginning of the talk, the speaker mentions the introduction of a workpla"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 2,
+          "letter": "C",
+          "text": "The speaker says several times that the intention of the new program is to make "
+        },
+        "16": {
+          "q_num": 16,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  The gerund form of the verb modifies the subject 'G"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because it is an adjective and modifies the noun 'job"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  This is the past participle of the verb which compl"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. 'Enclosing' means including something additional and"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because  the information following the comma explains"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 0,
+          "letter": "A",
+          "text": "Because the situation is ongoing, the present progressive form of the verb is co"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 3,
+          "letter": "D",
+          "text": "This the correct answer, since the focus of the flyer is on what and how people "
+        },
+        "23": {
+          "q_num": 23,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the text says that water is a 'cleanser' and "
+        },
+        "24": {
+          "q_num": 24,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  The word 'portion' is used to describe the amount o"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer according to information about how to eat in the seco"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the last paragraph about junk food begins wit"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "The flyer begins: 'There are more reasons than ever to become a member of the Ea"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 1,
+          "letter": "B",
+          "text": "These facilities are not mentioned in the flyer. Therefore, this is the correct "
+        },
+        "29": {
+          "q_num": 29,
+          "index": 3,
+          "letter": "D",
+          "text": "The flyer mentions a swim meet on July 10th and the sign indicates that the pool"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the price for the season for a resident family. Therefore, this is the c"
+        }
+      }
+    },
+    "2": {
+      "testId": 42642,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because the man is holding a box and looking at it."
+        },
+        "2": {
+          "q_num": 2,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because she is in a store that sells fruit and is hav"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct response to an offer of assistance in a store."
+        },
+        "4": {
+          "q_num": 4,
+          "index": 1,
+          "letter": "B",
+          "text": "This is a correct response to a request for a haircut appointment."
+        },
+        "5": {
+          "q_num": 5,
+          "index": 0,
+          "letter": "A",
+          "text": "This is a correct response to a request for assistance."
+        },
+        "6": {
+          "q_num": 6,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer to the tag question.  The response adds some addition"
+        },
+        "7": {
+          "q_num": 7,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman says that she placed an order yesterday, so this is the correct answer"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 2,
+          "letter": "C",
+          "text": "The man says he will have to put in a new order for the red chairs because they "
+        },
+        "9": {
+          "q_num": 9,
+          "index": 0,
+          "letter": "A",
+          "text": "At the end of the conversation the woman says 'Let me give you the order number,"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 3,
+          "letter": "D",
+          "text": "The man explicitly states that he wants to buy some of the unusual eyeglass fram"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman relates some information to the man and he understands what she means."
+        },
+        "12": {
+          "q_num": 12,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman suggests that the man try on some frames, so this is most likely what "
+        },
+        "13": {
+          "q_num": 13,
+          "index": 2,
+          "letter": "C",
+          "text": "There are references to several departments in the store, so this is the correct"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman says that certain items in the women's and men's departments are on sa"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 3,
+          "letter": "D",
+          "text": "At the end of the talk, the woman says that the store will be open until 10 p.m."
+        },
+        "16": {
+          "q_num": 16,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  A guarantee is a company's promise that purchasers "
+        },
+        "17": {
+          "q_num": 17,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  To 'contact' someone means to get in touch with the"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the only answer that makes sense in this context. 'Exchanged' means retu"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer, because it means that another camera will be provide"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  'Previous' meaning 'past' is correct, since the wri"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because it indicates the writer's feeling at this mom"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "The first line of the notice says that the event is an 'Arts and Crafts Market,'"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. At the end of the first paragraph of the notice it s"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct. This paragraph encourages people to' treat yourself to a"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 1,
+          "letter": "B",
+          "text": "In the second paragraph of Ms. Costa's email, she says that she received Ms. Ven"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. Ms. Costa describes her work as ' floral art,'  but "
+        },
+        "27": {
+          "q_num": 27,
+          "index": 1,
+          "letter": "B",
+          "text": "The article is an overview of the job of a buyer. Therefore, this is the correct"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 3,
+          "letter": "D",
+          "text": "Multitasking skills are not specifically referred to in the article. Therefore, "
+        },
+        "29": {
+          "q_num": 29,
+          "index": 3,
+          "letter": "D",
+          "text": "The article explicitly states, 'Buyers typically have a university degree in fin"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 0,
+          "letter": "A",
+          "text": "The previous sentence mentions current and future buying trends. Therefore, this"
+        }
+      }
+    },
+    "3": {
+      "testId": 42720,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because it describes what the woman in the center of "
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because one man is giving the other man his card."
+        },
+        "3": {
+          "q_num": 3,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because it mentions a specific time in response to a "
+        },
+        "4": {
+          "q_num": 4,
+          "index": 2,
+          "letter": "C",
+          "text": "This is an indirect response to the tag question.  The phrase 'Yes, I am' has be"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 0,
+          "letter": "A",
+          "text": "This response provides a location which is the correct answer to a 'where' quest"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer to the tag question.  The response adds some advice."
+        },
+        "7": {
+          "q_num": 7,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman says that the email about the pension plan was confusing, so this is t"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct response because the man says that other staff members have "
+        },
+        "9": {
+          "q_num": 9,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because the man says he will set up an all-staff meet"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 2,
+          "letter": "C",
+          "text": "The first speaker explicitly states that the company wants to hire about 30 more"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman asks a question to which the first speaker does not yet have answers. "
+        },
+        "12": {
+          "q_num": 12,
+          "index": 3,
+          "letter": "D",
+          "text": "The woman raises the possibility that the downtown office may be firing employee"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer since the speaker introduces herself as 'the head of "
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "The speaker mentions that George Kariakos was always available to help new staff"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 2,
+          "letter": "C",
+          "text": "At the end of the talk the speaker says 'we'd like to present you with an engrav"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 0,
+          "letter": "A",
+          "text": "The word 'submitted'  means 'sent in' or 'handed in' and is commonly used with t"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because it is a passive construction which is require"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because an adverb is required to modify the adjective"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct because the writer is referring to skills learned at her "
+        },
+        "20": {
+          "q_num": 20,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer, since the writer has just mentioned her organization"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  'Greatly' means 'very much,' so it indicates that t"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. In the second paragraph, it says, 'For the last five"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 1,
+          "letter": "B",
+          "text": "In the first paragraph, Mr. Ainslet says, 'As you’ll see from my enclosed résumé"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 2,
+          "letter": "C",
+          "text": "In the fourth paragraph, Mr. Ainslet says that he has 'a certificate in Web desi"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  In the third paragraph, Mr. Ainslet talks about his"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because there is nothing in the letter to suggest tha"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 2,
+          "letter": "C",
+          "text": "The advertisement explicitly states that the company is expanding which in this "
+        },
+        "28": {
+          "q_num": 28,
+          "index": 2,
+          "letter": "C",
+          "text": "In Sarah Mondo's letter, she writes that she is applying for the position of 'De"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 2,
+          "letter": "C",
+          "text": "Mick Treimel replies to Sarah Mondo's letter and informs her that the human reso"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 1,
+          "letter": "B",
+          "text": "One of the production editor's responsibilities is to make sure the production f"
+        }
+      }
+    },
+    "4": {
+      "testId": 42798,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because the central figure, a man, is typing on the k"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because the man is clearly talking to the woman. It c"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 0,
+          "letter": "A",
+          "text": "The affirmative word 'certainly' is a correct response to this request question."
+        },
+        "4": {
+          "q_num": 4,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because 'next week' is a clear time reference to this"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  The response indicates that Mr. Chang's plan for th"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer to the yes-no question.  Some additional information "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 0,
+          "letter": "A",
+          "text": "The price of the desks is a key factor in the purchase. The woman has found a ch"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 3,
+          "letter": "D",
+          "text": "The man offers to 'take another 10% off the price,' which means he will reduce t"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman says she 'will give it some thought' and 'will get back to you,' which"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 1,
+          "letter": "B",
+          "text": "The man asks the woman how her café has been so successful in the face of compet"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman agrees that the café has a hands-on approach. Therefore this is the co"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman gives an example of how the café maintains a strong connection with th"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 0,
+          "letter": "A",
+          "text": "Professional development courses are designed to help employees do their jobs be"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 0,
+          "letter": "A",
+          "text": "The speaker clearly outlines this as the first point in her talk."
+        },
+        "15": {
+          "q_num": 15,
+          "index": 2,
+          "letter": "C",
+          "text": "The speaker strongly implies this when she says 'rejection is an everyday part o"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  It is an adverb which is required to modify the ver"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  It is the future tense of the verb and is grammatic"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. A warranty is an agreement or promise made by the manufa"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because it is a future tense verb and the letter is e"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  The word 'comments' means 'written notes or remarks"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  The writer is describing a form and has already giv"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "The first paragraph invites 'entrepreneurs looking to build environmentally-frie"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because at the end of the notice it says the conferen"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because it is the time slot for the Networking Refres"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer.  The description for the 9:30-10:30 session says, 'B"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 3,
+          "letter": "D",
+          "text": "Benita Galleti is named as the speaker for the topic 'Recycling in the Green Age"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "Adam Wu explicitly states in his e-mail that Fruit Infusion has no added sugar a"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 1,
+          "letter": "B",
+          "text": "Adam Wu requests trying each flavor (without having to purchase a case of each f"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 0,
+          "letter": "A",
+          "text": "The advertisement states that six flavors are currently available and four new f"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 0,
+          "letter": "A",
+          "text": "Connie Allegro is ordering three cases. Therefore, this is the correct answer, a"
+        }
+      }
+    },
+    "5": {
+      "testId": 42876,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 2,
+          "letter": "C",
+          "text": "The man is standing on the street in front of what is clearly a cash machine. Th"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "The people are talking to each other about something, so this is the correct ans"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct response because it provides an answer to the question of ho"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 1,
+          "letter": "B",
+          "text": "'Company sales' would be part of a budget, so this response makes sense and is t"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 2,
+          "letter": "C",
+          "text": "Although this response omits the 'no,' at the beginning, it is clearly implied. "
+        },
+        "6": {
+          "q_num": 6,
+          "index": 0,
+          "letter": "A",
+          "text": "The question is asking for a location and the response mentions one, so this is "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "The man wants to send money to someone else's bank account. The woman provides a"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 2,
+          "letter": "C",
+          "text": "The man says that he wants to transfer money to China which would involve an ove"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 2,
+          "letter": "C",
+          "text": "The woman recommends calling the client in 'about three days,' so this is the co"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 0,
+          "letter": "A",
+          "text": "The man explicitly states that it is hard for him to save money. Therefore, this"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 2,
+          "letter": "C",
+          "text": "The man begins by saying, 'You're an accountant.' Therefore, this is the correct"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 0,
+          "letter": "A",
+          "text": "By saying, 'So why not download a budget app?' the woman is suggesting that the "
+        },
+        "13": {
+          "q_num": 13,
+          "index": 3,
+          "letter": "D",
+          "text": "At the beginning of the talk the woman says 'it'd be a good idea to review our s"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman says the company has mainly been focusing on developing new technologi"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman says the directors should be 'thrilled' with the 15 point profit gain."
+        },
+        "16": {
+          "q_num": 16,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  The phrase 'due to' indicates that a cause is being"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because a passive verb construction is required."
+        },
+        "18": {
+          "q_num": 18,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct adjective to complete the sentence.  Being profitable means "
+        },
+        "19": {
+          "q_num": 19,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  The word 'policies' means 'rules' or 'guidelines,' "
+        },
+        "20": {
+          "q_num": 20,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because the verb is in the passive voice and present "
+        },
+        "21": {
+          "q_num": 21,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because 'before' indicates that the coins must be del"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "One of the meanings of the word 'move' is 'something done to achieve a desired r"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. Although Vogels Bank is mentioned as a competitor, n"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer.  In the second paragraph, it says that' 6,000 staff "
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer.  In the last paragraph it says, 'As chief executive "
+        },
+        "26": {
+          "q_num": 26,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct. In the last paragraph, Mr. Spencer says, 'Our aim is to "
+        },
+        "27": {
+          "q_num": 27,
+          "index": 1,
+          "letter": "B",
+          "text": "The memo states that a workshop will take place on August 22nd. Michelle Moore i"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 3,
+          "letter": "D",
+          "text": "The memo states that Michelle Moore will be the leader of the next workshop. The"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 0,
+          "letter": "A",
+          "text": "The list states that the talks are offered each month. Therefore, this is the co"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 1,
+          "letter": "B",
+          "text": "This package contains a 45-minute presentation, and questions and answers, and p"
+        }
+      }
+    },
+    "6": {
+      "testId": 42954,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 1,
+          "letter": "B",
+          "text": "One meaning of 'to board' means to get onto a vehicle such as an airplane, bus, "
+        },
+        "2": {
+          "q_num": 2,
+          "index": 0,
+          "letter": "A",
+          "text": "The man is standing in a doorway and leaning toward the woman, so this is the co"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 1,
+          "letter": "B",
+          "text": "'Yes' is a correct response to a 'yes-no' question. Additional information expla"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because this response provides a time reference which"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct response because it provides a number that is required by th"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 1,
+          "letter": "B",
+          "text": "The question, 'Would you like?' is a way to ask someone about a preference. The "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "Because the conversation is about putting the man's clothing back into his close"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 0,
+          "letter": "A",
+          "text": "The man and woman are talking about what is the best way to travel with luggage,"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The woman gives the man a lot of advice about packin"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 2,
+          "letter": "C",
+          "text": "The man explicitly says that they made it to the hotel. Therefore, this is the c"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 0,
+          "letter": "A",
+          "text": "The man suggests a tour bus as a solution to his desire to relax and the woman's"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "The man suggests a compromise and the woman agrees. Therefore, this is the corre"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 0,
+          "letter": "A",
+          "text": "Since the woman making the announcement is speaking on behalf of Take-Off Airlin"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 1,
+          "letter": "B",
+          "text": "At the beginning of the announcement the woman says that there are mechanical pr"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. Passengers are asked to stay in a hotel for one nigh"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The passive voice is needed in this sentence because"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The word 'inform' means 'tell' or 'advise' and this "
+        },
+        "18": {
+          "q_num": 18,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct. The phrase 'prior to' means 'before' and is used with a "
+        },
+        "19": {
+          "q_num": 19,
+          "index": 3,
+          "letter": "D",
+          "text": "The past perfect verb form is the correct answer. The writer is explaining what "
+        },
+        "20": {
+          "q_num": 20,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The word 'occupants' means people who are living in "
+        },
+        "21": {
+          "q_num": 21,
+          "index": 1,
+          "letter": "B",
+          "text": "The writer says that he will be leaving the hotel early in the morning and wants"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The first paragraph of the notice says the tour will"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. Although the notice says the tour will stop at centr"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because the notice says 'Departs: Sundays.'"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. His reservation form says he is staying at the 'Cent"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 3,
+          "letter": "D",
+          "text": "At the bottom of the tour registration form, the address of the tour company is "
+        },
+        "27": {
+          "q_num": 27,
+          "index": 0,
+          "letter": "A",
+          "text": "Juan Garcia asks Madelyn Torres to book his plane ticket to London. Therefore, t"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 1,
+          "letter": "B",
+          "text": "At 9:02 A.M., Juan Garcia asks Nigel Brooks if he needs to bring anything specia"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 0,
+          "letter": "A",
+          "text": "Juan wants to arrive in London the day before the meeting on June 5. Therefore, "
+        },
+        "30": {
+          "q_num": 30,
+          "index": 3,
+          "letter": "D",
+          "text": "Nigel explicitly states that he will pick Juan up from the airport. Therefore, t"
+        }
+      }
+    },
+    "7": {
+      "testId": 43032,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because the woman's finger is touching the screen of "
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "The chairs in the picture are partially underneath the desks, so this is the cor"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 1,
+          "letter": "B",
+          "text": "This is an expected answer to a 'yes-no' question. The response includes some ad"
+        },
+        "4": {
+          "q_num": 4,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. It is an expected response to the 'when' question, s"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 0,
+          "letter": "A",
+          "text": "This is an indirect response to a request question and is the correct answer. Th"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 0,
+          "letter": "A",
+          "text": "The question is a common way to ask to borrow something.  The response indicates"
+        },
+        "7": {
+          "q_num": 7,
+          "index": 2,
+          "letter": "C",
+          "text": "At the beginning of the conversation the man says to the woman, 'I'm not sure ho"
+        },
+        "8": {
+          "q_num": 8,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman asks the man if he has collected progress report data from various off"
+        },
+        "9": {
+          "q_num": 9,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer because at the end of the conversation the woman tell"
+        },
+        "10": {
+          "q_num": 10,
+          "index": 0,
+          "letter": "A",
+          "text": "The speakers are discussing where they will sit in the new office. Therefore, th"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 2,
+          "letter": "C",
+          "text": "The woman requested the office next to the reception area. This is where Luis wi"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 2,
+          "letter": "C",
+          "text": "The man says that he will be working with other people. Therefore, this is the c"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 1,
+          "letter": "B",
+          "text": "The listeners are addressed as 'managers,' and the speaker reminds them, 'Rememb"
+        },
+        "14": {
+          "q_num": 14,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer because at the end of the talk the speaker mentions '"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. After talking about how to implement 'the three Rs,'"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer.  'Necessary' is an adjective, which is the word form"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. 'Stored' means 'put in a place where it can be kept "
+        },
+        "18": {
+          "q_num": 18,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because the future tense and passive voice of the ver"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 1,
+          "letter": "B",
+          "text": "This answer is correct. The memo indicates that at one time there were enough of"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer because a comparative form of the adjective is necess"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. Because the move will take place in the future, the futu"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer since there is no place on the order form where an e-"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. In the order form under the section called 'Merchand"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 3,
+          "letter": "D",
+          "text": "The words 'settle' and 'resolve' mean to reach an agreement. Ms. Langdon hopes t"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. In the first paragraph of the e-mail, it says that '"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. The order form requests that a logo be printed on th"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "The memo explicitly states that being nearer to students is its 'major advantage"
+        },
+        "28": {
+          "q_num": 28,
+          "index": 2,
+          "letter": "C",
+          "text": "The memo states that employees will be kept 'in the loop about what is going on,"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 1,
+          "letter": "B",
+          "text": "The memo states that employees will enjoy the amenities which include 'retail sh"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 0,
+          "letter": "A",
+          "text": "This is just after 'more office space and bigger conference rooms' were mentione"
+        }
+      }
+    },
+    "8": {
+      "testId": 43110,
+      "count": 30,
+      "answers": {
+        "1": {
+          "q_num": 1,
+          "index": 1,
+          "letter": "B",
+          "text": "The people in the picture are at a restaurant, and they are all taking food from"
+        },
+        "2": {
+          "q_num": 2,
+          "index": 3,
+          "letter": "D",
+          "text": "The man is cooking something in the frying pan.  Because cooking is part of prep"
+        },
+        "3": {
+          "q_num": 3,
+          "index": 2,
+          "letter": "C",
+          "text": "This is an appropriate answer to a 'Yes/No' question and  is the correct answer."
+        },
+        "4": {
+          "q_num": 4,
+          "index": 0,
+          "letter": "A",
+          "text": "This is an appropriate answer to a 'yes-no' question and so is the correct answe"
+        },
+        "5": {
+          "q_num": 5,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer because the speaker apologizes and explains that no r"
+        },
+        "6": {
+          "q_num": 6,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer since it is an appropriate response to a request for "
+        },
+        "7": {
+          "q_num": 7,
+          "index": 3,
+          "letter": "D",
+          "text": "The woman says that she is looking for a restaurant to hold a luncheon and asks "
+        },
+        "8": {
+          "q_num": 8,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman says she is 'concerned', a synonym for 'worried,' about having enough "
+        },
+        "9": {
+          "q_num": 9,
+          "index": 2,
+          "letter": "C",
+          "text": "The man says that he knows the manager of the restaurant and offers to call her "
+        },
+        "10": {
+          "q_num": 10,
+          "index": 1,
+          "letter": "B",
+          "text": "The woman explicitly mentions celebrating Luke's promotion. Therefore, this is t"
+        },
+        "11": {
+          "q_num": 11,
+          "index": 0,
+          "letter": "A",
+          "text": "The woman insists on going out for 'a proper meal', not ordering pizza. Therefor"
+        },
+        "12": {
+          "q_num": 12,
+          "index": 1,
+          "letter": "B",
+          "text": "The man means that Marco's idea is acceptable to him. Therefore, this is the cor"
+        },
+        "13": {
+          "q_num": 13,
+          "index": 0,
+          "letter": "A",
+          "text": "This is an advertisement for a 'grill' which is a name for a type of restaurant."
+        },
+        "14": {
+          "q_num": 14,
+          "index": 2,
+          "letter": "C",
+          "text": "The speaker says that the ambiance of the restaurant includes 'music and interio"
+        },
+        "15": {
+          "q_num": 15,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. The speaker states that the restaurant is open until"
+        },
+        "16": {
+          "q_num": 16,
+          "index": 3,
+          "letter": "D",
+          "text": "This is the correct answer. 'Refrain' means to stop yourself from doing somethin"
+        },
+        "17": {
+          "q_num": 17,
+          "index": 2,
+          "letter": "C",
+          "text": "This is the correct answer. The word 'strict' means inflexible. Since a jacket a"
+        },
+        "18": {
+          "q_num": 18,
+          "index": 0,
+          "letter": "A",
+          "text": "This answer is correct. 'Reserves' means the management can choose to do somethi"
+        },
+        "19": {
+          "q_num": 19,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. The word 'affordable' means not expensive. This idea"
+        },
+        "20": {
+          "q_num": 20,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct because an adverb form of the word is necessary to modify"
+        },
+        "21": {
+          "q_num": 21,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. A 'reservation' is an arrangement to have a table he"
+        },
+        "22": {
+          "q_num": 22,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. The menu has one dish, 'Jamaican-style black beans,'"
+        },
+        "23": {
+          "q_num": 23,
+          "index": 3,
+          "letter": "D",
+          "text": "Toward the bottom of the menu it says, 'Tea and coffee are complimentary,' which"
+        },
+        "24": {
+          "q_num": 24,
+          "index": 0,
+          "letter": "A",
+          "text": "This is the correct answer. In the second paragraph of the e-mail, Mr. Lakatos s"
+        },
+        "25": {
+          "q_num": 25,
+          "index": 3,
+          "letter": "D",
+          "text": "This answer is correct. In the last paragraph of the e-mail, Mr. Lakatos says he"
+        },
+        "26": {
+          "q_num": 26,
+          "index": 1,
+          "letter": "B",
+          "text": "This is the correct answer. In the first paragraph of the e-mail, Mr. Lakatos sa"
+        },
+        "27": {
+          "q_num": 27,
+          "index": 3,
+          "letter": "D",
+          "text": "'To get on board' in this context means to give your support or become involved "
+        },
+        "28": {
+          "q_num": 28,
+          "index": 1,
+          "letter": "B",
+          "text": "Kevin Zakris is talking about opening a restaurant. Therefore, this is the corre"
+        },
+        "29": {
+          "q_num": 29,
+          "index": 2,
+          "letter": "C",
+          "text": "Philippe Brosnan writes that he will finish his studies in six months. Therefore"
+        },
+        "30": {
+          "q_num": 30,
+          "index": 0,
+          "letter": "A",
+          "text": "Kevin Zakris mentions that he is going to visit a possible location for the rest"
+        }
+      }
+    }
+  }
+}

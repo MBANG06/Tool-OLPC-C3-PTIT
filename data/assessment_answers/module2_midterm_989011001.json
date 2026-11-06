@@ -1,0 +1,602 @@
+{
+  "1": {
+    "q_num": 1,
+    "index": 2,
+    "letter": "C",
+    "text": "A document is a paper with information printed on it. There are papers on the de"
+  },
+  "2": {
+    "q_num": 2,
+    "index": 0,
+    "letter": "A",
+    "text": "An oar is a paddle that is used to move the boat through water. The man sitting "
+  },
+  "3": {
+    "q_num": 3,
+    "index": 1,
+    "letter": "B",
+    "text": "There is a door to the right of and lower than the railings of the stairs. There"
+  },
+  "4": {
+    "q_num": 4,
+    "index": 2,
+    "letter": "C",
+    "text": "The man, who is probably doing something, agrees to help the woman and will join"
+  },
+  "5": {
+    "q_num": 5,
+    "index": 0,
+    "letter": "A",
+    "text": "To \"schedule\" something is to set a time and date for it. The woman answers the "
+  },
+  "6": {
+    "q_num": 6,
+    "index": 2,
+    "letter": "C",
+    "text": "When asked the reason the woman wanted a specific file, she realized that she ha"
+  },
+  "7": {
+    "q_num": 7,
+    "index": 0,
+    "letter": "A",
+    "text": "The word \"maintenance\" means tools, equipment or upkeep. The word \"spare\" means "
+  },
+  "8": {
+    "q_num": 8,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman is saying that she will do as asked - put the receipt in the bag with "
+  },
+  "9": {
+    "q_num": 9,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman says that she hasn't read the article about the president of the compa"
+  },
+  "10": {
+    "q_num": 10,
+    "index": 0,
+    "letter": "A",
+    "text": "Even though the woman doesn't give a specific amount of time, she answers the ma"
+  },
+  "11": {
+    "q_num": 11,
+    "index": 1,
+    "letter": "B",
+    "text": "The man says that the sales report is almost finished, therefore they don't need"
+  },
+  "12": {
+    "q_num": 12,
+    "index": 0,
+    "letter": "A",
+    "text": "The man gives a time and says that it's the same time as on other days. This mea"
+  },
+  "13": {
+    "q_num": 13,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman answers the question by saying that all the clients are from Japan. In"
+  },
+  "14": {
+    "q_num": 14,
+    "index": 0,
+    "letter": "A",
+    "text": "The phrase \"at the end of the day\" refers to the time \"after work.\" The woman sa"
+  },
+  "15": {
+    "q_num": 15,
+    "index": 0,
+    "letter": "A",
+    "text": "The woman doesn't know and is not authorised to decide. The directors of the com"
+  },
+  "16": {
+    "q_num": 16,
+    "index": 1,
+    "letter": "B",
+    "text": "The second woman suggests she is wrong by asking her if she had been to Clover's"
+  },
+  "17": {
+    "q_num": 17,
+    "index": 2,
+    "letter": "C",
+    "text": "To \"schedule\" means to arrange a time. The woman is asking when the workers are "
+  },
+  "18": {
+    "q_num": 18,
+    "index": 3,
+    "letter": "D",
+    "text": "The woman says that she has a meeting the next day with Shirley. She also says t"
+  },
+  "19": {
+    "q_num": 19,
+    "index": 0,
+    "letter": "A",
+    "text": "The woman is nervous about meeting Shirley, so the man responds that he has met "
+  },
+  "20": {
+    "q_num": 20,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman asks the man if he has any suggestions about how she should approach S"
+  },
+  "21": {
+    "q_num": 21,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman says that she bought a documentary, but it wouldn't stream so she coul"
+  },
+  "22": {
+    "q_num": 22,
+    "index": 0,
+    "letter": "A",
+    "text": "The man says that they had \"a technical issue\" earlier. An \"issue\" is a problem "
+  },
+  "23": {
+    "q_num": 23,
+    "index": 3,
+    "letter": "D",
+    "text": "The man says that he will handle the woman's refund and send an e-mail to confir"
+  },
+  "24": {
+    "q_num": 24,
+    "index": 0,
+    "letter": "A",
+    "text": "A deadline is a date or time before something needs to be done. The woman needs "
+  },
+  "25": {
+    "q_num": 25,
+    "index": 2,
+    "letter": "C",
+    "text": "Daniel says that he has finished writing the article, but that he's waiting for "
+  },
+  "26": {
+    "q_num": 26,
+    "index": 3,
+    "letter": "D",
+    "text": "A \"task\" is an assignment or a job that needs to be done. The woman needs to do "
+  },
+  "27": {
+    "q_num": 27,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman has just returned from a meeting with the designers of their clothing "
+  },
+  "28": {
+    "q_num": 28,
+    "index": 0,
+    "letter": "A",
+    "text": "The word \"durable\" means that something can last a long time without losing  qua"
+  },
+  "29": {
+    "q_num": 29,
+    "index": 3,
+    "letter": "D",
+    "text": "To \"promote\" something is to help to sell it or make it popular. The man suggest"
+  },
+  "30": {
+    "q_num": 30,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman wants to know more about a dining room set that the man is selling. To"
+  },
+  "31": {
+    "q_num": 31,
+    "index": 0,
+    "letter": "A",
+    "text": "The woman says she is visiting relatives on the weekend. A \"relative\" is a perso"
+  },
+  "32": {
+    "q_num": 32,
+    "index": 1,
+    "letter": "B",
+    "text": "An \"image\" is a likeness of a person or object, as in a picture or photograph. T"
+  },
+  "33": {
+    "q_num": 33,
+    "index": 0,
+    "letter": "A",
+    "text": "A trade fair and a trade show are the same thing. The woman says that she has co"
+  },
+  "34": {
+    "q_num": 34,
+    "index": 3,
+    "letter": "D",
+    "text": "He is arriving from Glasgow. The man said that they will wait for the colleague "
+  },
+  "35": {
+    "q_num": 35,
+    "index": 0,
+    "letter": "A",
+    "text": "The man offers to take the woman's luggage to another area. This means that he w"
+  },
+  "36": {
+    "q_num": 36,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman mentions \"our grocery store,\" cash registers and purchases. A grocery "
+  },
+  "37": {
+    "q_num": 37,
+    "index": 3,
+    "letter": "D",
+    "text": "The woman says that \"customers have complained about the amount of time they hav"
+  },
+  "38": {
+    "q_num": 38,
+    "index": 1,
+    "letter": "B",
+    "text": "The word \"equipment\" is apparatus or instruments used for an activity. The verb "
+  },
+  "39": {
+    "q_num": 39,
+    "index": 0,
+    "letter": "A",
+    "text": "The woman says that their company \"will be offering a workshop on negotiation sk"
+  },
+  "40": {
+    "q_num": 40,
+    "index": 3,
+    "letter": "D",
+    "text": "Those interested in doing the workshop are asked to \"sign up immediately\" and ar"
+  },
+  "41": {
+    "q_num": 41,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman says that the workshop will be lead by the author of a book on the sub"
+  },
+  "42": {
+    "q_num": 42,
+    "index": 0,
+    "letter": "A",
+    "text": "The advertisement specifically says, \"When you sign up for a maintenance contrac"
+  },
+  "43": {
+    "q_num": 43,
+    "index": 2,
+    "letter": "C",
+    "text": "The word \"unique\" means unlike anything else, which is special. Peterson's is de"
+  },
+  "44": {
+    "q_num": 44,
+    "index": 1,
+    "letter": "B",
+    "text": "The advertisement offers the first 50 callers a complimentary furnace inspection"
+  },
+  "45": {
+    "q_num": 45,
+    "index": 2,
+    "letter": "C",
+    "text": "A discussion can also mean a meeting. The man says that he's following up on the"
+  },
+  "46": {
+    "q_num": 46,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker uses \"that\" to refer to Joanne's success - growing from one store to"
+  },
+  "47": {
+    "q_num": 47,
+    "index": 1,
+    "letter": "B",
+    "text": "A \"conference\" is the same as a convention. The speaker suggests that Joanne att"
+  },
+  "48": {
+    "q_num": 48,
+    "index": 3,
+    "letter": "D",
+    "text": "The speaker says that they should consider eliminating the class that is the mos"
+  },
+  "49": {
+    "q_num": 49,
+    "index": 0,
+    "letter": "A",
+    "text": "The speaker proposes to \"host an event to raise some money\" to help with their o"
+  },
+  "50": {
+    "q_num": 50,
+    "index": 2,
+    "letter": "C",
+    "text": "The speaker asks the listeners to send him any ideas that they may have about ma"
+  },
+  "51": {
+    "q_num": 51,
+    "index": 2,
+    "letter": "C",
+    "text": "This is a verb in the past form or past participle and it suits the passive tens"
+  },
+  "52": {
+    "q_num": 52,
+    "index": 3,
+    "letter": "D",
+    "text": "The word \"nor\" has a negative meaning and is used to introduce the second item a"
+  },
+  "53": {
+    "q_num": 53,
+    "index": 0,
+    "letter": "A",
+    "text": "The word \"policy\" means \"a principle or guideline.\" Vista Apparel's guidelines a"
+  },
+  "54": {
+    "q_num": 54,
+    "index": 3,
+    "letter": "D",
+    "text": "This is in the infinitive. Therefore, this answer is correct."
+  },
+  "55": {
+    "q_num": 55,
+    "index": 2,
+    "letter": "C",
+    "text": "This is an adjective that qualifies \"aspects.\" Therefore, this answer is correct"
+  },
+  "56": {
+    "q_num": 56,
+    "index": 3,
+    "letter": "D",
+    "text": "The word \"without\" shows the absence of something. Invoices must have the custom"
+  },
+  "57": {
+    "q_num": 57,
+    "index": 1,
+    "letter": "B",
+    "text": "The word \"now\" means \"at present.\" It shows that the renovation project is curre"
+  },
+  "58": {
+    "q_num": 58,
+    "index": 2,
+    "letter": "C",
+    "text": "The word \"equally\" means \"to the same degree.\" The two applicants seem to be equ"
+  },
+  "59": {
+    "q_num": 59,
+    "index": 0,
+    "letter": "A",
+    "text": "The word \"from\" shows the starting point of something. A response to the letter "
+  },
+  "60": {
+    "q_num": 60,
+    "index": 0,
+    "letter": "A",
+    "text": "How the junior editors do their job is assessed quarterly. The word \"evaluated\" "
+  },
+  "61": {
+    "q_num": 61,
+    "index": 2,
+    "letter": "C",
+    "text": "The word \"refundable\" is an adjective that qualifies \"general admission tickets."
+  },
+  "62": {
+    "q_num": 62,
+    "index": 3,
+    "letter": "D",
+    "text": "The verb \"will be canceled\" is a verb in the future simple, passive tense. The c"
+  },
+  "63": {
+    "q_num": 63,
+    "index": 1,
+    "letter": "B",
+    "text": "The word \"principal\" means \"dominant\" or \"key.\" Ayumi Suzuki will be the key spe"
+  },
+  "64": {
+    "q_num": 64,
+    "index": 2,
+    "letter": "C",
+    "text": "The word \"closure\" is a noun that goes together with \"bridge.\" The closure of th"
+  },
+  "65": {
+    "q_num": 65,
+    "index": 1,
+    "letter": "B",
+    "text": "The phrase \"just once\" means \"only one time.\" The eatery has received only one p"
+  },
+  "66": {
+    "q_num": 66,
+    "index": 1,
+    "letter": "B",
+    "text": "This sentence gives the reason why the roads will be closed on the day and at th"
+  },
+  "67": {
+    "q_num": 67,
+    "index": 3,
+    "letter": "D",
+    "text": "An \"inconvenience\" is a bother or an annoyance. Having the streets closed for a "
+  },
+  "68": {
+    "q_num": 68,
+    "index": 3,
+    "letter": "D",
+    "text": "The word \"increasingly\" is an adverb that modifies how popular something has bec"
+  },
+  "69": {
+    "q_num": 69,
+    "index": 2,
+    "letter": "C",
+    "text": "The verb \"will help\" is a verb in the future simple. It matches the sentence and"
+  },
+  "70": {
+    "q_num": 70,
+    "index": 3,
+    "letter": "D",
+    "text": "The phrase \"would like to ask\" is a phrase with a future intention. Therefore, t"
+  },
+  "71": {
+    "q_num": 71,
+    "index": 3,
+    "letter": "D",
+    "text": "The word \"however\" means \"on the other hand.\" Ms. Telkes first asks Mr. Cooper t"
+  },
+  "72": {
+    "q_num": 72,
+    "index": 0,
+    "letter": "A",
+    "text": "The word \"feedback\" means \"evaluative or corrective information about an action "
+  },
+  "73": {
+    "q_num": 73,
+    "index": 0,
+    "letter": "A",
+    "text": "\"Corporate\" means \"commercial\" or \"mass-selling.\" In the next sentence Ms. Telke"
+  },
+  "74": {
+    "q_num": 74,
+    "index": 2,
+    "letter": "C",
+    "text": "The word \"production\" means \"output.\" A page from an older paper, instead of the"
+  },
+  "75": {
+    "q_num": 75,
+    "index": 0,
+    "letter": "A",
+    "text": "To \"access\" means the possibility to make use of something. The Web address has "
+  },
+  "76": {
+    "q_num": 76,
+    "index": 3,
+    "letter": "D",
+    "text": "The word \"options\" means \"choices\" or \"alternatives.\" The Web page mentions on-s"
+  },
+  "77": {
+    "q_num": 77,
+    "index": 1,
+    "letter": "B",
+    "text": "\"Annual\" means \"yearly\". By using the term \"annual members\", we can assume that "
+  },
+  "78": {
+    "q_num": 78,
+    "index": 1,
+    "letter": "B",
+    "text": "\"To indicate\" means \"to point out.\" The notice says that there was nobody home w"
+  },
+  "79": {
+    "q_num": 79,
+    "index": 3,
+    "letter": "D",
+    "text": "The notice says that if Ms. Birch cannot be home during the technician's working"
+  },
+  "80": {
+    "q_num": 80,
+    "index": 0,
+    "letter": "A",
+    "text": "The first line of the e-mail thanks Mr. Bisset for buying tickets online. It the"
+  },
+  "81": {
+    "q_num": 81,
+    "index": 3,
+    "letter": "D",
+    "text": "He is asked to get to the box office 30 minutes before the show starts, because "
+  },
+  "82": {
+    "q_num": 82,
+    "index": 1,
+    "letter": "B",
+    "text": "The sentence before this talks about Mr. Bisset's two tickets that will be waiti"
+  },
+  "83": {
+    "q_num": 83,
+    "index": 1,
+    "letter": "B",
+    "text": "Ms. Li says, \"I'd like your thoughts about where to take our guests next week.\" "
+  },
+  "84": {
+    "q_num": 84,
+    "index": 3,
+    "letter": "D",
+    "text": "Mr. Purdin says that the food was great at Golden Night, but that the bill was h"
+  },
+  "85": {
+    "q_num": 85,
+    "index": 0,
+    "letter": "A",
+    "text": "Mr. Purdin offers something more casual (informal) - Evergreen Inn. Therefore, t"
+  },
+  "86": {
+    "q_num": 86,
+    "index": 2,
+    "letter": "C",
+    "text": "Even though Mr. Daas speaks after Mr. Bittle says that Seafood Queen would have "
+  },
+  "87": {
+    "q_num": 87,
+    "index": 2,
+    "letter": "C",
+    "text": "The brochure says that there are four event facilities available for a variety o"
+  },
+  "88": {
+    "q_num": 88,
+    "index": 1,
+    "letter": "B",
+    "text": "The first paragraph says that if anyone wants a tour of any of the venues or fac"
+  },
+  "89": {
+    "q_num": 89,
+    "index": 2,
+    "letter": "C",
+    "text": "This is the number of covered seats at the pavilion for an audience. Because the"
+  },
+  "90": {
+    "q_num": 90,
+    "index": 1,
+    "letter": "B",
+    "text": "As the brochure says, \"Whenever the service road is open to traffic,\" we can ass"
+  },
+  "91": {
+    "q_num": 91,
+    "index": 2,
+    "letter": "C",
+    "text": "Mr. Zungu wrote that his agency was hired to develop a campaign to encourage tou"
+  },
+  "92": {
+    "q_num": 92,
+    "index": 1,
+    "letter": "B",
+    "text": "The video was screened in the library, but libraries do not appear in the film. "
+  },
+  "93": {
+    "q_num": 93,
+    "index": 3,
+    "letter": "D",
+    "text": "Mr. Zungu writes that the screening of the video will be followed by a dinner an"
+  },
+  "94": {
+    "q_num": 94,
+    "index": 0,
+    "letter": "A",
+    "text": "The word \"appreciation\" means \"admiration\" or \"respect.\" Ms. Mabasa wrote the e-"
+  },
+  "95": {
+    "q_num": 95,
+    "index": 3,
+    "letter": "D",
+    "text": "Mr. Zungu wrote that the video would be screened in the atrium lounge if renovat"
+  },
+  "96": {
+    "q_num": 96,
+    "index": 1,
+    "letter": "B",
+    "text": "The Davies Foundation grants the Davies Product Innovation Award. \"Innovation\" m"
+  },
+  "97": {
+    "q_num": 97,
+    "index": 1,
+    "letter": "B",
+    "text": "Ms. Callaghan wants to submit a product to the competition. To do this, she need"
+  },
+  "98": {
+    "q_num": 98,
+    "index": 3,
+    "letter": "D",
+    "text": "The e-mail states that orders increased once people knew about the first stage o"
+  },
+  "99": {
+    "q_num": 99,
+    "index": 0,
+    "letter": "A",
+    "text": "To \"clear\" can mean \"to pass\" a hurdle or stage of something. Therefore, this an"
+  },
+  "100": {
+    "q_num": 100,
+    "index": 0,
+    "letter": "A",
+    "text": "The article states that Mr. Mallon spoke at \"yesterday's award ceremony.\" The ar"
+  }
+}

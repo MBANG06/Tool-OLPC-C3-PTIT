@@ -1,0 +1,1202 @@
+{
+  "1": {
+    "q_num": 1,
+    "index": 1,
+    "letter": "B",
+    "text": "There is a document open on the desk and the man is looking at it. Therefore, th"
+  },
+  "2": {
+    "q_num": 2,
+    "index": 2,
+    "letter": "C",
+    "text": "Two people are crossing the street. Therefore, this is the correct answer."
+  },
+  "3": {
+    "q_num": 3,
+    "index": 1,
+    "letter": "B",
+    "text": "One of the men has his knee on the ground - he is kneeling down - so this is the"
+  },
+  "4": {
+    "q_num": 4,
+    "index": 0,
+    "letter": "A",
+    "text": "A woman is sitting on a machine, and the machine has mops in front and back. We "
+  },
+  "5": {
+    "q_num": 5,
+    "index": 3,
+    "letter": "D",
+    "text": "There is a table against the wall and there are three baskets under the table. T"
+  },
+  "6": {
+    "q_num": 6,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman is trying to reach something on the highest shelf. Therefore, this is "
+  },
+  "7": {
+    "q_num": 7,
+    "index": 0,
+    "letter": "A",
+    "text": "This answer provides the information that the train ride will take seven hours."
+  },
+  "8": {
+    "q_num": 8,
+    "index": 0,
+    "letter": "A",
+    "text": "This answer gives a time frame for calling. Therefore, it is the correct answer."
+  },
+  "9": {
+    "q_num": 9,
+    "index": 1,
+    "letter": "B",
+    "text": "This answer gives a specific date; therefore this is the correct answer."
+  },
+  "10": {
+    "q_num": 10,
+    "index": 1,
+    "letter": "B",
+    "text": "This is an indirect response to the statement. Because the lock is broken, we ca"
+  },
+  "11": {
+    "q_num": 11,
+    "index": 2,
+    "letter": "C",
+    "text": "This response indicates enthusiastic acceptance. Therefore, it is the correct an"
+  },
+  "12": {
+    "q_num": 12,
+    "index": 0,
+    "letter": "A",
+    "text": "This answer provides a person’s name. Therefore, it is the correct response."
+  },
+  "13": {
+    "q_num": 13,
+    "index": 0,
+    "letter": "A",
+    "text": "In response to the speaker saying that she’ll be away, the man volunteers to tak"
+  },
+  "14": {
+    "q_num": 14,
+    "index": 2,
+    "letter": "C",
+    "text": "This is an indirect response to the question. Because the woman hasn’t eaten yet"
+  },
+  "15": {
+    "q_num": 15,
+    "index": 0,
+    "letter": "A",
+    "text": "The question seems to require a yes or no answer. However, the second speaker ne"
+  },
+  "16": {
+    "q_num": 16,
+    "index": 1,
+    "letter": "B",
+    "text": "This response acknowledges that there was a problem, but that it no longer exist"
+  },
+  "17": {
+    "q_num": 17,
+    "index": 1,
+    "letter": "B",
+    "text": "This reply does not explain specifically where to submit the form. However, it d"
+  },
+  "18": {
+    "q_num": 18,
+    "index": 0,
+    "letter": "A",
+    "text": "This response explains that because the person has a deadline, they are working "
+  },
+  "19": {
+    "q_num": 19,
+    "index": 2,
+    "letter": "C",
+    "text": "We can infer from this answer that the person doesn’t know how many copies are n"
+  },
+  "20": {
+    "q_num": 20,
+    "index": 2,
+    "letter": "C",
+    "text": "This answer explains where the envelopes are. Therefore, it is the correct answe"
+  },
+  "21": {
+    "q_num": 21,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker wouldn’t need a key for the room if it weren’t locked. Therefore, th"
+  },
+  "22": {
+    "q_num": 22,
+    "index": 2,
+    "letter": "C",
+    "text": "This response tells when, or how often, something happens. Therefore, it is the "
+  },
+  "23": {
+    "q_num": 23,
+    "index": 1,
+    "letter": "B",
+    "text": "In this answer, “yes” is implied: “Yes, I looked it over twice.”  We understand "
+  },
+  "24": {
+    "q_num": 24,
+    "index": 1,
+    "letter": "B",
+    "text": "We can infer from this answer that the colleagues will not be arriving because t"
+  },
+  "25": {
+    "q_num": 25,
+    "index": 0,
+    "letter": "A",
+    "text": "Although this answer doesn’t mention a specific location, it mentions “the same "
+  },
+  "26": {
+    "q_num": 26,
+    "index": 1,
+    "letter": "B",
+    "text": "In response to the speaker wanting a towel to clean a table, the person offers t"
+  },
+  "27": {
+    "q_num": 27,
+    "index": 2,
+    "letter": "C",
+    "text": "This answer makes clear that an invoice doesn’t need to be sent, since one has a"
+  },
+  "28": {
+    "q_num": 28,
+    "index": 2,
+    "letter": "C",
+    "text": "According to this response, the folders are there because Ichiro put them there."
+  },
+  "29": {
+    "q_num": 29,
+    "index": 2,
+    "letter": "C",
+    "text": "The person expresses his preference for the 5:00 o'clock show. Therefore, this a"
+  },
+  "30": {
+    "q_num": 30,
+    "index": 0,
+    "letter": "A",
+    "text": "We can infer from this answer that the person didn’t apply for the job. Although"
+  },
+  "31": {
+    "q_num": 31,
+    "index": 0,
+    "letter": "A",
+    "text": "We can infer from this answer that the person hasn’t finished the report because"
+  },
+  "32": {
+    "q_num": 32,
+    "index": 0,
+    "letter": "A",
+    "text": "The man agrees to take over for the receptionist while she is on holiday. Theref"
+  },
+  "33": {
+    "q_num": 33,
+    "index": 1,
+    "letter": "B",
+    "text": "Because the front desk phones have a different system from the one the man is us"
+  },
+  "34": {
+    "q_num": 34,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman suggests that the man “take a look” at the system manual. When you tak"
+  },
+  "35": {
+    "q_num": 35,
+    "index": 1,
+    "letter": "B",
+    "text": "The man mentions that they are interviewing someone for a fitness instructor pos"
+  },
+  "36": {
+    "q_num": 36,
+    "index": 2,
+    "letter": "C",
+    "text": "The speakers are interviewing people for a fitness instructor position. The woma"
+  },
+  "37": {
+    "q_num": 37,
+    "index": 0,
+    "letter": "A",
+    "text": "The man mentions that he’ll give Min-Jung Won a call, which means he is going to"
+  },
+  "38": {
+    "q_num": 38,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman mentions that she’s volunteering at an event on Saturday, and she asks"
+  },
+  "39": {
+    "q_num": 39,
+    "index": 0,
+    "letter": "A",
+    "text": "The man mentions that rain is forecast for Saturday and that the woman should we"
+  },
+  "40": {
+    "q_num": 40,
+    "index": 3,
+    "letter": "D",
+    "text": "The woman asks whether lunch will be provided, which means she wants to know if "
+  },
+  "41": {
+    "q_num": 41,
+    "index": 2,
+    "letter": "C",
+    "text": "The man says that a shoe sale will start in two weeks at the store. Therefore, t"
+  },
+  "42": {
+    "q_num": 42,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman says she thinks they should put an advertisement in the local newspape"
+  },
+  "43": {
+    "q_num": 43,
+    "index": 0,
+    "letter": "A",
+    "text": "The man is concerned about the budget, so he asks about how much will be charged"
+  },
+  "44": {
+    "q_num": 44,
+    "index": 2,
+    "letter": "C",
+    "text": "The man mentions “our restaurant,” and the woman says they will have a problem “"
+  },
+  "45": {
+    "q_num": 45,
+    "index": 0,
+    "letter": "A",
+    "text": "The man mentions that their supplier can’t give them all of the tomatoes they or"
+  },
+  "46": {
+    "q_num": 46,
+    "index": 3,
+    "letter": "D",
+    "text": "The man says that he is going to call Johnson Farms, his corn supplier, to see i"
+  },
+  "47": {
+    "q_num": 47,
+    "index": 1,
+    "letter": "B",
+    "text": "After the woman mentions “all these cars,” the man expresses concern that they m"
+  },
+  "48": {
+    "q_num": 48,
+    "index": 0,
+    "letter": "A",
+    "text": "The man says that Sharpman Industries “might not want to work with us,” which in"
+  },
+  "49": {
+    "q_num": 49,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman suggests leaving the car in a parking garage and walking the kilometer"
+  },
+  "50": {
+    "q_num": 50,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman mentions that she bought a book for her friend at the bookstore. She g"
+  },
+  "51": {
+    "q_num": 51,
+    "index": 3,
+    "letter": "D",
+    "text": "The man explains that while items may be exchanged, the store doesn’t give, or i"
+  },
+  "52": {
+    "q_num": 52,
+    "index": 0,
+    "letter": "A",
+    "text": "The man says he’d be happy to contact the woman when the book she wants arrives."
+  },
+  "53": {
+    "q_num": 53,
+    "index": 0,
+    "letter": "A",
+    "text": "The speakers are talking about some issues with the man’s hotel reservation. The"
+  },
+  "54": {
+    "q_num": 54,
+    "index": 2,
+    "letter": "C",
+    "text": "The man mentions that he changed his room reservation from a single to a double "
+  },
+  "55": {
+    "q_num": 55,
+    "index": 3,
+    "letter": "D",
+    "text": "For a moment, the woman has trouble finding the man’s reservation. She mentions "
+  },
+  "56": {
+    "q_num": 56,
+    "index": 3,
+    "letter": "D",
+    "text": "The woman plans to spin some samples on the centrifuge. Since the centrifuge is "
+  },
+  "57": {
+    "q_num": 57,
+    "index": 2,
+    "letter": "C",
+    "text": "The man says he called the vendor this morning. The woman mentions that the vend"
+  },
+  "58": {
+    "q_num": 58,
+    "index": 1,
+    "letter": "B",
+    "text": "The woman seems frustrated and says she’s annoyed about the problems with the ce"
+  },
+  "59": {
+    "q_num": 59,
+    "index": 1,
+    "letter": "B",
+    "text": "The speakers mention that they have almost finished their presentation, and they"
+  },
+  "60": {
+    "q_num": 60,
+    "index": 3,
+    "letter": "D",
+    "text": "The woman says that the food is really good, and one of the men mentions that he"
+  },
+  "61": {
+    "q_num": 61,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman says that she will try to download the menu from the restaurant’s Web "
+  },
+  "62": {
+    "q_num": 62,
+    "index": 1,
+    "letter": "B",
+    "text": "Originally, the speakers were sitting in one of the general sections. However, t"
+  },
+  "63": {
+    "q_num": 63,
+    "index": 0,
+    "letter": "A",
+    "text": "The man is surprised that they have been assigned to review the show because nei"
+  },
+  "64": {
+    "q_num": 64,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman says that the man will need his press pass to get into the media secti"
+  },
+  "65": {
+    "q_num": 65,
+    "index": 2,
+    "letter": "C",
+    "text": "The man informs the caller that she has reached Westbrook Mobile Phone Company a"
+  },
+  "66": {
+    "q_num": 66,
+    "index": 1,
+    "letter": "B",
+    "text": "This is the late fee which the man is going to remove from the bill. Therefore, "
+  },
+  "67": {
+    "q_num": 67,
+    "index": 1,
+    "letter": "B",
+    "text": "Because the woman’s contract with the phone company is about to expire, the man "
+  },
+  "68": {
+    "q_num": 68,
+    "index": 1,
+    "letter": "B",
+    "text": "The man says that he wasn’t able to print out his ticket. Therefore, this is the"
+  },
+  "69": {
+    "q_num": 69,
+    "index": 3,
+    "letter": "D",
+    "text": "The train to Brunscove departs from Hayesfield Station at 1:45 P.M. Therefore, t"
+  },
+  "70": {
+    "q_num": 70,
+    "index": 2,
+    "letter": "C",
+    "text": "The woman says that there is a free baggage handling service. Therefore, this is"
+  },
+  "71": {
+    "q_num": 71,
+    "index": 0,
+    "letter": "A",
+    "text": "According to the advertisement, Patel Legal Services has been practicing environ"
+  },
+  "72": {
+    "q_num": 72,
+    "index": 1,
+    "letter": "B",
+    "text": "According to the advertisement, the company opened a new office in Los Angeles. "
+  },
+  "73": {
+    "q_num": 73,
+    "index": 0,
+    "letter": "A",
+    "text": "The advertisement mentions that there is a full-page newspaper ad in the weekend"
+  },
+  "74": {
+    "q_num": 74,
+    "index": 2,
+    "letter": "C",
+    "text": "The announcement addresses “grocery shoppers.” In addition, it mentions prepared"
+  },
+  "75": {
+    "q_num": 75,
+    "index": 1,
+    "letter": "B",
+    "text": "The announcement mentions an expanded freezer section with frozen meals that can"
+  },
+  "76": {
+    "q_num": 76,
+    "index": 0,
+    "letter": "A",
+    "text": "Customers are told they can fill in a form with their feedback and suggestions o"
+  },
+  "77": {
+    "q_num": 77,
+    "index": 3,
+    "letter": "D",
+    "text": "The speaker mentions that he's from Worldwide Carpets. In addition, he says that"
+  },
+  "78": {
+    "q_num": 78,
+    "index": 1,
+    "letter": "B",
+    "text": "The man explains that because a tree fell down, the road from the factory is blo"
+  },
+  "79": {
+    "q_num": 79,
+    "index": 0,
+    "letter": "A",
+    "text": "The speaker asks the listener to call him when she gets his message. Therefore, "
+  },
+  "80": {
+    "q_num": 80,
+    "index": 2,
+    "letter": "C",
+    "text": "Because the speaker thanks the listeners for flying with her, then gives them in"
+  },
+  "81": {
+    "q_num": 81,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker gives the listeners some updated information about a departure gate "
+  },
+  "82": {
+    "q_num": 82,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker advises listeners continuing on to Hong Kong that they will need to "
+  },
+  "83": {
+    "q_num": 83,
+    "index": 2,
+    "letter": "C",
+    "text": "The speaker says that the workshop will focus of public speaking skills and goes"
+  },
+  "84": {
+    "q_num": 84,
+    "index": 0,
+    "letter": "A",
+    "text": "When the speaker says that “many people have that problem,” he means that many p"
+  },
+  "85": {
+    "q_num": 85,
+    "index": 3,
+    "letter": "D",
+    "text": "The speaker asks the listeners to find partners so that they can take part in a "
+  },
+  "86": {
+    "q_num": 86,
+    "index": 0,
+    "letter": "A",
+    "text": "The speaker says the city baseball fields will be reopening. Since baseball is a"
+  },
+  "87": {
+    "q_num": 87,
+    "index": 3,
+    "letter": "D",
+    "text": "The speaker mentions that heavy rains delayed the repairs. Heavy rains that caus"
+  },
+  "88": {
+    "q_num": 88,
+    "index": 3,
+    "letter": "D",
+    "text": "According to the speaker, there will be a community picnic on Sunday afternoon t"
+  },
+  "89": {
+    "q_num": 89,
+    "index": 2,
+    "letter": "C",
+    "text": "The speaker says that his company makes high-quality printing paper from recycle"
+  },
+  "90": {
+    "q_num": 90,
+    "index": 3,
+    "letter": "D",
+    "text": "The speaker explains at length that cardboard boxes are recycled to make this hi"
+  },
+  "91": {
+    "q_num": 91,
+    "index": 0,
+    "letter": "A",
+    "text": "The speaker says that the company is offering a large discount on the paper “for"
+  },
+  "92": {
+    "q_num": 92,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker takes the listeners to the Edner Theater and mentions they will be a"
+  },
+  "93": {
+    "q_num": 93,
+    "index": 0,
+    "letter": "A",
+    "text": "The speaker says the listeners have “plenty of time” to visit shops in the area,"
+  },
+  "94": {
+    "q_num": 94,
+    "index": 2,
+    "letter": "C",
+    "text": "After telling the listeners about the shops, the speaker mentions that she will "
+  },
+  "95": {
+    "q_num": 95,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker says he has the Presidential Library reserved for a meeting with cli"
+  },
+  "96": {
+    "q_num": 96,
+    "index": 2,
+    "letter": "C",
+    "text": "According to the graphic, Sylvia has Conference Room A scheduled. The speaker me"
+  },
+  "97": {
+    "q_num": 97,
+    "index": 2,
+    "letter": "C",
+    "text": "The speaker mentions that he is showing a video to the clients, so he needs the "
+  },
+  "98": {
+    "q_num": 98,
+    "index": 1,
+    "letter": "B",
+    "text": "The speaker is discussing logistics for an event with a co-worker. We can infer "
+  },
+  "99": {
+    "q_num": 99,
+    "index": 2,
+    "letter": "C",
+    "text": "The speaker mentions that the weather forecast is for “both days before the day "
+  },
+  "100": {
+    "q_num": 100,
+    "index": 3,
+    "letter": "D",
+    "text": "The speaker mentions that the listener booked the catering company. The catering"
+  },
+  "101": {
+    "q_num": 101,
+    "index": 2,
+    "letter": "C",
+    "text": "The word “and” is a conjunction that is used to join two related words (or phras"
+  },
+  "102": {
+    "q_num": 102,
+    "index": 0,
+    "letter": "A",
+    "text": "The word “frequently” is an adverb. It describes how often the company has been "
+  },
+  "103": {
+    "q_num": 103,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “requests” can be either the third person singular form of the verb or "
+  },
+  "104": {
+    "q_num": 104,
+    "index": 3,
+    "letter": "D",
+    "text": "In a passive sentence, the person who did the action is introduced using the pre"
+  },
+  "105": {
+    "q_num": 105,
+    "index": 1,
+    "letter": "B",
+    "text": "\"Will+verb\" indicates a future action. Therefore, it is the correct answer."
+  },
+  "106": {
+    "q_num": 106,
+    "index": 3,
+    "letter": "D",
+    "text": "The adverb “always” means “every time.” A maintenance department is responsible "
+  },
+  "107": {
+    "q_num": 107,
+    "index": 3,
+    "letter": "D",
+    "text": "The word “or” is a conjunction which expresses two or more possibilities or choi"
+  },
+  "108": {
+    "q_num": 108,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “stores” is the plural form of the noun “store.” Therefore, it is the c"
+  },
+  "109": {
+    "q_num": 109,
+    "index": 2,
+    "letter": "C",
+    "text": "The word “includes” is the third person singular form of the present simple verb"
+  },
+  "110": {
+    "q_num": 110,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “their” is the third person plural form of the possessive adjective. It"
+  },
+  "111": {
+    "q_num": 111,
+    "index": 1,
+    "letter": "B",
+    "text": "We can infer from the sentence that the meeting will be postponed from the time "
+  },
+  "112": {
+    "q_num": 112,
+    "index": 0,
+    "letter": "A",
+    "text": "The word “recently” means that something happened “not long ago” or “a short tim"
+  },
+  "113": {
+    "q_num": 113,
+    "index": 0,
+    "letter": "A",
+    "text": "The word “thrilling” in an adjective that means “exciting.” It is an -ing adject"
+  },
+  "114": {
+    "q_num": 114,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “possibly” is an adverb. In its positive form, it expresses uncertainty"
+  },
+  "115": {
+    "q_num": 115,
+    "index": 2,
+    "letter": "C",
+    "text": "The word “totaling” means “adding up to” or “equaling.” Therefore, this is the c"
+  },
+  "116": {
+    "q_num": 116,
+    "index": 3,
+    "letter": "D",
+    "text": "The word “accurate” means “exact; without any mistakes.” Accurate records don’t "
+  },
+  "117": {
+    "q_num": 117,
+    "index": 3,
+    "letter": "D",
+    "text": "Although “volume” can refer to the amount of space an object contains, it can al"
+  },
+  "118": {
+    "q_num": 118,
+    "index": 0,
+    "letter": "A",
+    "text": "The word “therefore” means “for that reason.” The inventory must be replaced “fo"
+  },
+  "119": {
+    "q_num": 119,
+    "index": 3,
+    "letter": "D",
+    "text": "The phrase “as soon as” implies that an event will happen immediately after, or "
+  },
+  "120": {
+    "q_num": 120,
+    "index": 2,
+    "letter": "C",
+    "text": "The word “attentively,” which means “while paying close attention,” is the adver"
+  },
+  "121": {
+    "q_num": 121,
+    "index": 2,
+    "letter": "C",
+    "text": "“Residents” is the plural form of the noun “resident,\" which means a person who "
+  },
+  "122": {
+    "q_num": 122,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “none” means “not one” or “not any.” “They have none” is the same as “t"
+  },
+  "123": {
+    "q_num": 123,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “fewer” is a comparative adjective. It is used to compare “not as many”"
+  },
+  "124": {
+    "q_num": 124,
+    "index": 2,
+    "letter": "C",
+    "text": "The verb “have been outselling” uses the present perfect progressive tense which"
+  },
+  "125": {
+    "q_num": 125,
+    "index": 3,
+    "letter": "D",
+    "text": "When two things are “compatible,” they work well together. If the new printer is"
+  },
+  "126": {
+    "q_num": 126,
+    "index": 2,
+    "letter": "C",
+    "text": "“Chief among the reasons” means “The most important reason.” “Chief” means “of g"
+  },
+  "127": {
+    "q_num": 127,
+    "index": 0,
+    "letter": "A",
+    "text": "\"which\" is used as a determiner to specify one or more things or people. The sen"
+  },
+  "128": {
+    "q_num": 128,
+    "index": 0,
+    "letter": "A",
+    "text": "The verb “interfere with” implies having a negative or damaging effect on someth"
+  },
+  "129": {
+    "q_num": 129,
+    "index": 3,
+    "letter": "D",
+    "text": "A “forum” is a meeting place where people can exchange ideas. It can be a physic"
+  },
+  "130": {
+    "q_num": 130,
+    "index": 0,
+    "letter": "A",
+    "text": "The verb “comply” means to “act according to the rules” and to “follow the polic"
+  },
+  "131": {
+    "q_num": 131,
+    "index": 1,
+    "letter": "B",
+    "text": "The word “missing” is an adjective that can describe a library book. Therefore, "
+  },
+  "132": {
+    "q_num": 132,
+    "index": 3,
+    "letter": "D",
+    "text": "the verb “returned” is the past participle of the verb. It is used in the modal "
+  },
+  "133": {
+    "q_num": 133,
+    "index": 2,
+    "letter": "C",
+    "text": "The previous sentence tells us that the library staff searched for the book. Thi"
+  },
+  "134": {
+    "q_num": 134,
+    "index": 0,
+    "letter": "A",
+    "text": "The verb “order” means to request that something be delivered. When you order so"
+  },
+  "135": {
+    "q_num": 135,
+    "index": 2,
+    "letter": "C",
+    "text": "The word “first” can refer to something happening for the first time. In this se"
+  },
+  "136": {
+    "q_num": 136,
+    "index": 0,
+    "letter": "A",
+    "text": "The verb form “doubling” can be used here to replace \"which will double.\" Theref"
+  },
+  "137": {
+    "q_num": 137,
+    "index": 3,
+    "letter": "D",
+    "text": "This sentence adds to the topic of the packaging. Since “also” means “in additio"
+  },
+  "138": {
+    "q_num": 138,
+    "index": 3,
+    "letter": "D",
+    "text": "The word “varieties” means types or kinds of a particular thing. The article men"
+  },
+  "139": {
+    "q_num": 139,
+    "index": 2,
+    "letter": "C",
+    "text": "“Previously,” which means “before” or “earlier,” refers to any time before the s"
+  },
+  "140": {
+    "q_num": 140,
+    "index": 3,
+    "letter": "D",
+    "text": "The verb “will be paid” is the future passive form of the verb. Therefore, it is"
+  },
+  "141": {
+    "q_num": 141,
+    "index": 0,
+    "letter": "A",
+    "text": "The word “notification” is a noun that means “a document or message that informs"
+  },
+  "142": {
+    "q_num": 142,
+    "index": 1,
+    "letter": "B",
+    "text": "This sentence explains when the travel compensation money will be available, so "
+  },
+  "143": {
+    "q_num": 143,
+    "index": 0,
+    "letter": "A",
+    "text": "The word “my” is a possessive adjective. It describes who something belongs to. "
+  },
+  "144": {
+    "q_num": 144,
+    "index": 3,
+    "letter": "D",
+    "text": "After stating that passionate employees have a positive influence on their colle"
+  },
+  "145": {
+    "q_num": 145,
+    "index": 0,
+    "letter": "A",
+    "text": "The verb “created”, which means “made” or “brought into existence,” provides the"
+  },
+  "146": {
+    "q_num": 146,
+    "index": 2,
+    "letter": "C",
+    "text": "“Since then” means “from that time until now.” Therefore, it is the correct answ"
+  },
+  "147": {
+    "q_num": 147,
+    "index": 2,
+    "letter": "C",
+    "text": "An amusement park has rides and food courts. Many also include games with prizes"
+  },
+  "148": {
+    "q_num": 148,
+    "index": 0,
+    "letter": "A",
+    "text": "One meaning of the word “party” is “a group of people visiting a place together."
+  },
+  "149": {
+    "q_num": 149,
+    "index": 2,
+    "letter": "C",
+    "text": "After buying a new phone, it is advisable to learn how to use it properly by rea"
+  },
+  "150": {
+    "q_num": 150,
+    "index": 1,
+    "letter": "B",
+    "text": "The text states that it is possible to damage the Gelrick X3R if you don’t follo"
+  },
+  "151": {
+    "q_num": 151,
+    "index": 1,
+    "letter": "B",
+    "text": "“Gratitude” is a synonym for “thanks.” It means “the feeling of being grateful.”"
+  },
+  "152": {
+    "q_num": 152,
+    "index": 0,
+    "letter": "A",
+    "text": "A radio or television station can also be called a broadcasting studio or organi"
+  },
+  "153": {
+    "q_num": 153,
+    "index": 3,
+    "letter": "D",
+    "text": "Riad asks Neville to cancel her Friday meetings, which means they won’t take pla"
+  },
+  "154": {
+    "q_num": 154,
+    "index": 2,
+    "letter": "C",
+    "text": "“Oversee” and “supervise” are synonyms. When Riad says she is there to oversee t"
+  },
+  "155": {
+    "q_num": 155,
+    "index": 2,
+    "letter": "C",
+    "text": "A consulting company would likely have contracts with its business clients. Ther"
+  },
+  "156": {
+    "q_num": 156,
+    "index": 3,
+    "letter": "D",
+    "text": "The letter asks Mr. Iyer to complete a survey in order to help the company provi"
+  },
+  "157": {
+    "q_num": 157,
+    "index": 0,
+    "letter": "A",
+    "text": "In the comments part of the survey, Mr. Iyer writes that he was happy to have ch"
+  },
+  "158": {
+    "q_num": 158,
+    "index": 1,
+    "letter": "B",
+    "text": "Mr. Iyer mentioned that the repair “was supposed to take only two days” but that"
+  },
+  "159": {
+    "q_num": 159,
+    "index": 1,
+    "letter": "B",
+    "text": "With his answer, “Yes, please do,” Mr. Marks is letting Mr. Berman know that he "
+  },
+  "160": {
+    "q_num": 160,
+    "index": 3,
+    "letter": "D",
+    "text": "“Budgeting” is calculating how much money is needed for a particular project, wh"
+  },
+  "161": {
+    "q_num": 161,
+    "index": 1,
+    "letter": "B",
+    "text": "The article describes the changes happening at the bookstore: additional space, "
+  },
+  "162": {
+    "q_num": 162,
+    "index": 0,
+    "letter": "A",
+    "text": "A “bookseller” is a person or company that sells books. Since Ana Li is the co-o"
+  },
+  "163": {
+    "q_num": 163,
+    "index": 0,
+    "letter": "A",
+    "text": "If independent bookstores weren’t successful anymore, the expansion project woul"
+  },
+  "164": {
+    "q_num": 164,
+    "index": 0,
+    "letter": "A",
+    "text": "According to the product review, a hiking enthusiast needs separate pairs of boo"
+  },
+  "165": {
+    "q_num": 165,
+    "index": 3,
+    "letter": "D",
+    "text": "We say that something “lasts for a long time” to mean it can be used for a long "
+  },
+  "166": {
+    "q_num": 166,
+    "index": 2,
+    "letter": "C",
+    "text": "This is the only review that refers to new hikers. If you are “just starting out"
+  },
+  "167": {
+    "q_num": 167,
+    "index": 0,
+    "letter": "A",
+    "text": "The phrase “a great value for the money” means that the price of the boots is a "
+  },
+  "168": {
+    "q_num": 168,
+    "index": 3,
+    "letter": "D",
+    "text": "The article says that the town council “unanimously” approved the resolution to "
+  },
+  "169": {
+    "q_num": 169,
+    "index": 0,
+    "letter": "A",
+    "text": "To “plan” to do something means to set a goal to get it done. The verb “intend” "
+  },
+  "170": {
+    "q_num": 170,
+    "index": 2,
+    "letter": "C",
+    "text": "According to the article, residents began taking afternoon strolls in the park f"
+  },
+  "171": {
+    "q_num": 171,
+    "index": 3,
+    "letter": "D",
+    "text": "The paragraph lists the planned additions to the park, which is a suitable place"
+  },
+  "172": {
+    "q_num": 172,
+    "index": 3,
+    "letter": "D",
+    "text": "After Mr. Ito forgot to book a ticket, he found out that all the flights from Lo"
+  },
+  "173": {
+    "q_num": 173,
+    "index": 1,
+    "letter": "B",
+    "text": "Mr. Ito wants to know if he will be reimbursed for car travel from Los Angeles. "
+  },
+  "174": {
+    "q_num": 174,
+    "index": 2,
+    "letter": "C",
+    "text": "Ms. McMillan suggests taking a train to Mr. Ito. Since it seems to be his only o"
+  },
+  "175": {
+    "q_num": 175,
+    "index": 3,
+    "letter": "D",
+    "text": "We can infer that the meeting is in San Diego because the regional recruiters ar"
+  },
+  "176": {
+    "q_num": 176,
+    "index": 0,
+    "letter": "A",
+    "text": "We don’t know how long they might have worked in construction before they starte"
+  },
+  "177": {
+    "q_num": 177,
+    "index": 2,
+    "letter": "C",
+    "text": "Ms. Grey mentions that her tenants enjoy the fresh air and views from the roofto"
+  },
+  "178": {
+    "q_num": 178,
+    "index": 1,
+    "letter": "B",
+    "text": "The article mentions the Nichols brothers’ Web site and that interested parties,"
+  },
+  "179": {
+    "q_num": 179,
+    "index": 3,
+    "letter": "D",
+    "text": "The phrase “present state” means the condition of something right now. In its pr"
+  },
+  "180": {
+    "q_num": 180,
+    "index": 0,
+    "letter": "A",
+    "text": "The article says that Revitalize Renovations works in the city of Sydney. Ms. Fe"
+  },
+  "181": {
+    "q_num": 181,
+    "index": 2,
+    "letter": "C",
+    "text": "The note mentions having a “Travel and Tourism” section that includes guide book"
+  },
+  "182": {
+    "q_num": 182,
+    "index": 3,
+    "letter": "D",
+    "text": "An “abundance” means a large quantity of something. Therefore, this is the corre"
+  },
+  "183": {
+    "q_num": 183,
+    "index": 0,
+    "letter": "A",
+    "text": "The note doesn’t mention used books. However, the page from the catalog says: \"l"
+  },
+  "184": {
+    "q_num": 184,
+    "index": 3,
+    "letter": "D",
+    "text": "The Encyclopedia of Business Marketing appears both in the note and the catalog "
+  },
+  "185": {
+    "q_num": 185,
+    "index": 1,
+    "letter": "B",
+    "text": "None of the books in the catalog mention checklists for starting a new company. "
+  },
+  "186": {
+    "q_num": 186,
+    "index": 0,
+    "letter": "A",
+    "text": "The e-mail mentions that the conference is an “annual event.” The word “annual” "
+  },
+  "187": {
+    "q_num": 187,
+    "index": 2,
+    "letter": "C",
+    "text": "In the e-mail, Ms. Ostroski ask Mr. Kroll to talk about “discounts and flexible "
+  },
+  "188": {
+    "q_num": 188,
+    "index": 1,
+    "letter": "B",
+    "text": "When you make a “comeback,” you regain or return to an earlier and better positi"
+  },
+  "189": {
+    "q_num": 189,
+    "index": 3,
+    "letter": "D",
+    "text": "A “reduced” fee means a smaller fee, or less money to be paid. Members and nonme"
+  },
+  "190": {
+    "q_num": 190,
+    "index": 0,
+    "letter": "A",
+    "text": "According to the last text, presentation videos will be available online the mon"
+  },
+  "191": {
+    "q_num": 191,
+    "index": 1,
+    "letter": "B",
+    "text": "Because of the sale, the store will have “extended hours.” When something is “ex"
+  },
+  "192": {
+    "q_num": 192,
+    "index": 1,
+    "letter": "B",
+    "text": "According to the memo, additional sales associates are needed to work extra shif"
+  },
+  "193": {
+    "q_num": 193,
+    "index": 3,
+    "letter": "D",
+    "text": "When something is “advertised,” it is announced publicly in order to get people "
+  },
+  "194": {
+    "q_num": 194,
+    "index": 0,
+    "letter": "A",
+    "text": "The in-store coupon explains that  buyers get 30% off clearance items. Mr. Lothi"
+  },
+  "195": {
+    "q_num": 195,
+    "index": 1,
+    "letter": "B",
+    "text": "None of the texts mention a gift voucher, so we can assume Mr. Lothian didn’t re"
+  },
+  "196": {
+    "q_num": 196,
+    "index": 2,
+    "letter": "C",
+    "text": "To “solicit” means to ask for something - usually money, information or help. “S"
+  },
+  "197": {
+    "q_num": 197,
+    "index": 3,
+    "letter": "D",
+    "text": "Two times each month is twice a month. Therefore, this is the correct answer."
+  },
+  "198": {
+    "q_num": 198,
+    "index": 3,
+    "letter": "D",
+    "text": "The Diversity Committee provides support services for groups on the university c"
+  },
+  "199": {
+    "q_num": 199,
+    "index": 0,
+    "letter": "A",
+    "text": "A “packet” is a small package. “Documents” are official papers and forms. Accord"
+  },
+  "200": {
+    "q_num": 200,
+    "index": 1,
+    "letter": "B",
+    "text": "In the e-mail, Ms. Robinson was asked for a transcript from the last university "
+  }
+}

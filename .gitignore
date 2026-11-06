@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Output files generated during runs
+output/
+chrome_debug_profile/
+
+# Temporary files
+temp_input.txt
+*.tmp
+*.log
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
